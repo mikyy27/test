@@ -30,7 +30,7 @@ Da un ejemplo
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 
-![alt text](https://i.blogs.es/d22bb1/test/450_1000.jpg)
+![alt text](https://fotos.subefotos.com/532d656bcc1b9d69ca6551c00442e050o.png)
 
 ---
 ⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
