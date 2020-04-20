@@ -38,7 +38,7 @@ Imatge del fitxer .txt creat,escrit i amb les dades afegides i ordenades.
   * En tema de gestió de codi, ens anàvem assignant mètodes per fer i a vegades treballàvem en trucada conjuntament.
   * En apartat de problemes,no hem tingut cap realment rellevant, els petits problemes(que en realitat no són ni problemes sinó que al ser la 1ª vegada que fem certes coses hem d'informar-nos de com fer-les.) amb els que ens anàvem trobant els hem solventat fent recerques a Google.
  
-  _Si que hem tingut alguns problemes amb aquesta plataforma de col·laboració i encara ens falta pràctica. Entre ells commits triplicats en el procès de pujar a la nostra branca i desde la master fer el merge i alguna vegada ens hem liat amb les versions pujant alguna cosa, després agafant una versió antiga i pujant una altre aportació borrant inconscientment l'anterior, llavors l'altre col·laborador al fer un push amb la versió bona apareix com si hagués pujat tot ell, la seva aportació i la de l'altre company._
+  _Si que hem tingut alguns problemes amb aquesta plataforma de col·laboració i encara ens falta pràctica. Entre ells commits triplicats en el procès de pujar a la nostra branca i desde la master fer el merge i alguna vegada ens hem despistat i liat amb les versions, per exemple pujant alguna cosa, després agafant una versió antiga i pujant una altre aportació borrant inconscientment l'anterior, llavors l'altre col·laborador al fer un push amb la versió bona apareix com si hagués pujat tot ell, la seva aportació i la de l'altre company._
   
   ## Autors ✒️
 
